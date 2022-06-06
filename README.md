@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @OmarJesse
+- 👀 I’m interested in programming / games / art / illustration / design / puzzles
+- 🌱 I’m currently learning ReactJS
